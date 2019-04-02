@@ -83,4 +83,4 @@ else:
 
 
 #pyinstaller
-# pyinstaller --onefile --noupx mergePDF.py
+# pyinstaller --onefile --noupx mergePDF.py ###### create executable
