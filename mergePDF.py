@@ -14,7 +14,7 @@ should_we_merge= input("Would you like to merge all the files in one directory i
 if should_we_merge.lower() =='y':
     # ask where to put the final PDF:
     print(sys.argv)
-    output_filename = input("Enter the desired file name:") + ".pdf"
+    output_filename = input("Enter the desired output file name:") + ".pdf"
     print("Select the desired folder for the final combined file.")
     mynewpdflocation = askdirectory()  #enter where you want the final file
 
