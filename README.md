@@ -1,5 +1,5 @@
 # Sora-Project
 
-'''python
+```python
 pyinstaller --onefile --noupx mergePDF.py to create executable
-'''
+```
